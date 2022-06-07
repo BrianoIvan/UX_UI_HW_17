@@ -1,0 +1,245 @@
+html {
+    background-color: black;
+}
+
+.font{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+
+/* outline: 5px solid blue; */
+/* outline: 5px solid green; */
+/* outline: 5px solid red; */
+/* outline: 5px solid purple; */
+
+.inline-block{
+    display: inline-block;
+    vertical-align: top;
+    background-color: #35383F;    
+}
+
+.logo{
+    display: inline-block;
+    vertical-align: top;
+    width: 60%;
+    padding-top: 1px;
+    text-align: left;
+    background-color: #181a20;
+    
+
+}
+
+.name{
+    margin-left: 100px;
+    padding-top: 7%;
+}
+
+
+
+.nav {
+    padding: 10px;
+    margin-left: 40px;
+    
+}
+
+
+
+nav {
+    width: 37.5%;
+    padding: 1%;
+
+}
+
+
+/*
+ul {
+    width: 50%;
+    margin-left: auto;
+
+CHANGE FOR THE ENTIRE LIST
+
+}
+*/
+
+.heroimg{
+    width: 935px;
+    margin: 0 auto;
+    height: 500px;
+
+}
+
+#profile{
+    border-radius: 12px;
+    width: 50%;
+    float: right;
+    margin-right: 0px;
+
+}
+
+.content{
+    width: auto;
+    padding: 20px;
+    margin-top: 60px;
+    height: 450px;
+
+}
+
+.about_me{
+    float: left;
+    margin-left: 200px;
+
+}
+
+.p{
+    font-size: 25px;
+    text-align: left;
+    margin-top: 90px;
+    background-color: #35383F;
+    text-align: center;
+    padding-right: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 70px;
+    font-weight: 300;
+    border-radius: 15px;
+
+}
+
+button{
+    
+    padding: 10px;
+    margin-left: 150px;
+    margin-top: 20px;
+    border-radius: 12px;
+    color: blue;
+    transition: .10s;
+
+}
+
+button:hover{
+    background-color: blue;
+    color: white; 
+}
+
+
+footer {
+    
+    background-color: #373738; /*black*/
+    margin-top: 40px;
+    height: 150px;
+    position: absolute;
+    width: 99.3%;
+    
+    
+}
+
+
+
+.bottom_nav{
+    display: inline-block;
+    margin-left: 700px;
+    position: absolute;
+    padding-top: 15px;
+    
+
+    /*
+    padding-right: 20px;
+    margin-left: 50px;
+    margin-top: 40px;
+    margin-right: 50px;
+    */
+}
+
+.bnav{
+    padding: 10px;
+    margin-right: 40px;
+    font-size: 15px;
+    color: #BFD7EA;
+
+}
+
+#insta{
+    width: 20%;
+    position: absolute;
+    border-radius: 12px;
+}
+
+#facebook{
+    width: 20%;
+    position: absolute;
+    border-radius: 12px;
+}
+
+#snapchat{
+    width: 20%;
+    position: absolute;
+    border-radius: 12px;
+}
+
+.social_media{
+    display: inline-block;
+    margin-top: 30px;
+    position: absolute;
+    
+
+}
+.snav{
+
+    padding: 10px;
+    margin-right: 40px;
+    font-size: 15px;
+    color: #BFD7EA;
+    
+
+
+}
+
+.inline_block{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.contact{
+    position: absolute;
+    margin-left: 77.3%;
+    display: block;
+    padding: 10px;
+    
+
+}
+
+
+.contact_info{
+    
+    display: block;
+    position: absolute;
+    margin: 0;
+    text-align: left;
+    width: 200px;
+    padding: 5px;
+}
+
+
+
+h3{
+    
+    display: block;
+    width: 200px;
+    padding: 5px;
+}
+
+h5{
+    width: 230px;
+    display: block;
+    position: absolute;
+    bottom: 3px;
+    left: 56px;
+    font-size: 15px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    margin-top: 0;
+
+}
+
