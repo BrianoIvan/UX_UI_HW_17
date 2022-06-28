@@ -140,7 +140,7 @@ footer {
     display: inline-block;
     margin-left: 700px;
     position: absolute;
-    padding-top: 15px;
+    /* padding-top: 15px; */
     
 
     /*
@@ -152,7 +152,6 @@ footer {
 }
 
 .bnav{
-    padding: 10px;
     margin-right: 40px;
     font-size: 15px;
     color: #BFD7EA;
@@ -201,10 +200,10 @@ footer {
 }
 
 .contact{
-    position: absolute;
+    position: relative;
     margin-left: 77.3%;
     display: block;
-    padding: 10px;
+    /* padding: 10px; */
     
 
 }
@@ -217,7 +216,6 @@ footer {
     margin: 0;
     text-align: left;
     width: 200px;
-    padding: 5px;
 }
 
 
@@ -226,7 +224,6 @@ h3{
     
     display: block;
     width: 200px;
-    padding: 5px;
 }
 
 h5{
